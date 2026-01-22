@@ -2,7 +2,7 @@
 name = "macro_static_str_to_char"
 version = "0.1.0"
 edition = "2024"
-# TODO : description
+description = "A macro to transform a static string to an array of chars"
 license = "GPL-3.0-only"
 repository = "https://github.com/Vinz2008/macro_static_str_to_char"
 readme = "README.md"
