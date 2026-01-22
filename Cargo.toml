@@ -1,0 +1,12 @@
+[package]
+name = "macro_static_str_to_char"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+proc-macro2 = "1.0.106"
+quote = "1.0.43"
+syn = "2.0.114"
+
+[lib]
+proc-macro = true
