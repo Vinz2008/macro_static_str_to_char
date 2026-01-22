@@ -2,6 +2,10 @@
 name = "macro_static_str_to_char"
 version = "0.1.0"
 edition = "2024"
+# TODO : description
+license = "GPL-3.0-only"
+repository = "https://github.com/Vinz2008/macro_static_str_to_char"
+readme = "README.md"
 
 [dependencies]
 proc-macro2 = "1.0.106"
